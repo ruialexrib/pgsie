@@ -1,6 +1,6 @@
 ## PGSIE
 
-:mortar_board: Repositório de artigos e trabalhos académicos produzidos no âmbito do curso de Pós-Graduação em Gestão dos Sistemas de Informação Empresariais, ministrado pelo Porto Executive Academy, do Instituto Superior de Contabilidade do Porto.
+:mortar_board: **Repositório de artigos e trabalhos académicos produzidos no âmbito do curso de Pós-Graduação em Gestão dos Sistemas de Informação Empresariais, ministrado pelo Porto Executive Academy, do Instituto Superior de Contabilidade do Porto.**
 
 :one: [Arquiteturas Empresariais](https://github.com/ruialexrib/pgsie/blob/master/Arquiteturas%20Empresariais.pdf)
 
